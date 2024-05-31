@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="left">👋Hi there, I'm Nguyen Dat Trong. I'm student @ HUST, Back-end Dev @ VGGATE.</h3>
+<h3 align="left">👋Hi there,I'm student @ HUST, Back-end Dev @ VGGATE.</h3>
 
 ###
 
@@ -15,7 +15,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://tenor.com/view/memes-meme-memes2022funny-gif-26395288"  />
+<img align="right" height="150" src="https://media.tenor.com/notUnAjgm8UAAAAC/beluga-cat-meme.gif"  />
 
 ###
 
