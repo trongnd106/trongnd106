@@ -15,7 +15,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://tenor.com/view/sad-hamster-sad-hamster-hamster-meme-meme-gif-2177345870429336340"  />
+<img align="right" height="150" src="https://tenor.com/view/memes-meme-memes2022funny-gif-26395288"  />
 
 ###
 
