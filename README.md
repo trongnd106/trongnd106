@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="left">👋Hi there, I'm Nguyen Dat Trong.<br> I'm student @ HUST, Back-end Dev @ VGGATE.</h3>
+<h3 align="left">👋Hi there, I'm Nguyen Dat Trong.</h3>
 
 
 ###
