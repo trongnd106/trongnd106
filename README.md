@@ -1,7 +1,7 @@
 <br clear="both">
 
 <h3 align="left">👋Hi there, I'm Nguyen Dat Trong.</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trongnd106&label=Profile%20views&color=0e75b6&style=flat" alt="trongnd106" /> </p>
 
 ###
 
